@@ -1,0 +1,6 @@
+[submodule "Airbnb_Snowflake_DBT_Data_Engineer_Project"]
+	path = Airbnb_Snowflake_DBT_Data_Engineer_Project
+	url = https://github.com/qayasmehtab/Airbnb_Snowflake_DBT_Data_Engineer_Project.git
+[submodule "CDE-3-Pandas"]
+	path = CDE-3-Pandas
+	url = https://github.com/qayasmehtab/CDE-3-Pandas.git
